@@ -1,7 +1,7 @@
 # 📃 List of sites
 
-## 😯 We've got a load to show you...
----
+## 😯 We've got loads to look at...
+
 ### [🧑‍💻 CattyMod](https://cattymod.github.io)
 ### [👶 CattyMod Jr](https://cattymod.github.io/jr/)
 ### [🐧 CattyLinux](https://cattymod.github.io/linux/)
