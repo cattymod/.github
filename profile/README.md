@@ -1,6 +1,6 @@
 # CattyMod
 
-🎉 Welcome to **CattyMod**, a Scratch-based mod editor made for all ages!
+🎉 Welcome to **CattyMod**, a Scratch-based mod editor that's pretty cool!
 
 CattyMod is built with the [**Scrooch 3**](https://scrooch-project.github.io/ad/build/ad.html?mod=CattyMod) framework and has cool tools and features like:
 - 🧩 Advanced Extensions
