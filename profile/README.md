@@ -11,6 +11,6 @@ CattyMod is built with the [**Scrooch 3**](https://scrooch-project.github.io/ad/
 - ▶️ [**All Sites**](https://cattymod.github.io/)
 ---
 
-🌐 Try out the editor: [cattymod.github.io/editor](https://cattymod.github.io/editor/)  
+🌐 Try out the editor: [cattymod.github.io/editor](https://cattymod.github.io/editor/editor.html)  
 ---
 🔨 CattyMod is not affiliated with Scratch, the Scratch Team, or the Scratch Foundation.
