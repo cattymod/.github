@@ -1,14 +1,12 @@
 # CattyMod
 
-🎉 Welcome to **CattyMod**, a Scratch-based mod editor that's pretty cool!
+🎉 Welcome to **CattyMod**, a suite with different tools!
 
-CattyMod is built with the [**Scrooch 3**](https://scrooch-project.github.io/ad/build/ad.html?mod=CattyMod) framework and has cool tools and features like:
-- 🧩 Advanced Extensions
-- 🐾 A Cat blocks addon
+There are loads of tools, such as:
 - 🖥️ A Project Packager: [**CattyMod Packager**](https://cattymod.github.io/packager/)
 - 🧒 A special version: [**CattyMod Jr**](https://cattymod.github.io/jr)
 - 🤯 A Whole Linux Distro?! [**CattyLinux**](https://cattymod.github.io/linux/)
-- ▶️ [**All Sites**](https://cattymod.github.io/)
+- ▶️ [**Load More**](https://cattymod.github.io/)
 ---
 
 🌐 Try out the editor: [cattymod.github.io/editor](https://cattymod.github.io/editor/editor.html)  
