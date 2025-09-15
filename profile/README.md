@@ -6,7 +6,7 @@ Explore a variety of fun and useful tools, including:
 
 * 🖥️ **Project Packager** – Package your projects easily: [CattyMod Packager](https://cattymod.github.io/packager/)
 * 🧒 **CattyMod Jr** – A special programming language just for younger users: [CattyMod Jr](https://cattymod.github.io/jr)
-* 🤯 **CattyLinux** – Yes, a whole Linux distro!: [CattyLinux](https://cattymod.github.io/linux/)
+* 🤯 **CattyLinux** – Yes, a whole Linux distro: [CattyLinux](https://cattymod.github.io/linux/)
 * ▶️ **Load More Tools** – Discover more goodies: [Load More](https://cattymod.github.io/login)
 
 ---
