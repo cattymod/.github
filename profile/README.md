@@ -1,6 +1,6 @@
 # 😺 CattyMod
 
-Welcome to **CattyMod**, your new favourite Scratch Mod!
+Welcome to **CattyMod**, a scratch mod for everyone :)
 
 CattyMod is based on **Scratch**, **TurboWarp** and **PenguinMod** so you get the best experience!
 
