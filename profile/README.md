@@ -2,7 +2,7 @@
 
 Welcome to **CattyMod**, a scratch mod for everyone :)
 
-CattyMod is based on **Scratch**, **TurboWarp** and **PenguinMod** so you get the best experience!
+CattyMod is based on **Scratch** and  **TurboWarp** so you get the best experience!
 
 ---
 
