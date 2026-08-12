@@ -6,7 +6,7 @@ CattyMod is based on **Scratch** and  **TurboWarp** so you get the best experien
 
 ---
 
-🌐 Try the editor directly in your browser: [studio.cattymod.app](https://cattymod.github.io/editor/editor.html)
+🌐 Try the editor directly in your browser: [studio.cattymod.app](https://studio.cattymod.app/editor)
 
 ---
 
